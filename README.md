@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Raja Gopala Reddy Chittemreddy</h1>
+<h3 align="center">Obsessed with uncovering the ‘why’ behind the numbers to fuel better decisions</h3>
 
-<!--
-**rajagopalachittemreddy/rajagopalachittemreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently **on a mission to make data speak—transforming numbers into narratives that drive action**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Generative AI, Deep Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m **ready to partner with others to turn messy data into meaningful breakthroughs.**
+
+- 🤝 I’m looking for help with **career guidance**
+
+<!-- - 👨‍💻 My projects are also available at [My Portfolio](https://my-portfolio-chi-blond.vercel.app/) -->
+
+- 💬 Let's talk about **how data can solve your everyday problems**
+
+- 📫 Reach me at: **rajareddyus15@gmail.com**
+
+- ⚡ Fun fact: **I don’t just have opinions, I have data to prove them**
